@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LeonardoMaximiliano
+- 👀 I’m interested in videogames, ciber securuty, and AI 
+- 🌱 I’m currently studying Sofware Development at CETI Colomos
+- 💞️ I’m looking to collaborate on video game development on unreal engine or unity and web development proyects
+- 📫 How to reach me, my Linkedin (https://www.linkedin.com/in/leonardo-maximiliano-garcia-bojorquez-749b43311/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was part of the chess selection of my country
